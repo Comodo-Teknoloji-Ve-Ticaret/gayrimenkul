@@ -1,0 +1,34 @@
+# Ozan Arslan – Pasha Gayrimenkul (Aydın)
+
+> Ozan Arslan, Pasha Gayrimenkul bünyesinde Efeler/Aydın merkezli çalışan bir gayrimenkul danışmanıdır. Aydın ve ilçelerinde (Efeler, Kuşadası, Didim, Nazilli, Söke, İncirliova, Germencik, Çine) kiralık ev, satılık ev, Aydın Adnan Menderes Üniversitesi (ADÜ) öğrencileri için öğrenci apartı, arsa, tarla ve zeytinlik alım-satım-kiralama danışmanlığı ile ücretsiz ekspertiz hizmeti verir.
+
+- Ad: Ozan Arslan (bazen "Ozan Arsalan" olarak da aranır)
+- Ofis: Pasha Gayrimenkul, Yedieylül Mahallesi, Çine Cd. No:1/A, 09020 Efeler/Aydın, Türkiye
+- Telefon / WhatsApp: +90 534 649 73 41
+- E-posta: ozanarss@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ozanarsslan
+- Hizmet bölgesi: Aydın ilinin tamamı
+- Dil: Türkçe
+
+## Hizmetler
+
+- [Aydın kiralık ev ve daire]({{SITE_URL}}/aydin-kiralik-ev/): Eşyalı/eşyasız kiralık daire, ev sahipleri için kiracı bulma
+- [Aydın satılık ev, daire ve yazlık]({{SITE_URL}}/aydin-satilik-ev/): Emsal analizi, tapu ve imar kontrolü, tapu devri
+- [Aydın öğrenci apart ve öğrenci evi]({{SITE_URL}}/aydin-ogrenci-apart/): ADÜ kampüsüne ulaşımı kolay eşyalı apartlar ve paylaşımlı evler
+- [Aydın satılık arsa, tarla ve zeytinlik]({{SITE_URL}}/aydin-satilik-arsa-zeytinlik/): İmar, kadastro, yol cephesi ve hisse kontrolü
+- [İletişim ve ücretsiz ekspertiz]({{SITE_URL}}/iletisim/)
+
+## Bölgeler
+
+- [Efeler (Aydın merkez)]({{SITE_URL}}/bolgeler/efeler/)
+- [Kuşadası]({{SITE_URL}}/bolgeler/kusadasi/)
+- [Didim]({{SITE_URL}}/bolgeler/didim/)
+- [Nazilli]({{SITE_URL}}/bolgeler/nazilli/)
+- [Söke]({{SITE_URL}}/bolgeler/soke/)
+
+## Rehberler
+
+- [Aydın'da öğrenci evi kiralarken dikkat edilmesi gereken 10 şey]({{SITE_URL}}/rehber/aydinda-ogrenci-evi-kiralarken-dikkat-edilmesi-gerekenler/)
+- [Aydın'da ev alırken tapu süreci]({{SITE_URL}}/rehber/aydinda-ev-alirken-tapu-sureci/)
+- [Evinizi kiraya verirken sözleşme ve kiracı seçimi]({{SITE_URL}}/rehber/evinizi-kiraya-verirken-sozlesme-rehberi/)
+- [Efeler mi, Kuşadası mı, Didim mi? Yatırım karşılaştırması]({{SITE_URL}}/rehber/efeler-mi-kusadasi-mi-didim-mi-yatirim-karsilastirmasi/)
